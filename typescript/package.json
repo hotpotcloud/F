@@ -47,7 +47,7 @@
         "@babel/preset-react": "^7.25.9",
         "@cypress/react18": "^2.0.1",
         "@mdx-js/react": "^3.0.1",
-        "@mui/material": "^5.15.15",
+        "@mui/material": "^6.4.8",
         "@mui/system": "^5.15.14",
         "@nx/jest": "^20.0.5",
         "@storybook/addon-essentials": "^8.6.4",
